@@ -35,6 +35,7 @@ p {
   }
 }
 
+
 @media screen and (max-width:576px) {
   #page-top {
     width: 40px;
@@ -55,9 +56,8 @@ p {
     border-radius: 50%;
   }
 }
-
 .submit-color {
-  background-color: #DE660D;
+  background-color: #17a2b8;
   color: white;
   opacity: 0.9;
   transition: all 0.4s;
@@ -81,4 +81,3 @@ footer {
 .card {
   border-radius: 0;
 }
-
